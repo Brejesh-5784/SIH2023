@@ -38,7 +38,7 @@ Response: Verbal alerts via PA systems in the specific sector.
 Level 2: Object between the 40% mark and the edge
 Response: More aggressive verbal alerts via PA systems, and the Control Room is alerted with a normal state.
 Level 3: Object over the edge of the platform
-Response: Control Room is alerted with an emergency state, and nearby personnel are dispatched to assist and rescue.
+Response: The control Room is alerted to an emergency state, and nearby personnel are dispatched to assist and rescue.
 5. Use Cases
 
 Platform Safety Monitoring:
@@ -57,3 +57,9 @@ Blind Spots: Existing CCTV networks may have blind spots that could impact the s
 Changing Regulations: Adapting to evolving safety and privacy regulations.
 CCTV Video Quality: The quality of CCTV video can affect detection accuracy.
 GPU Processing: Higher versions of YOLO (e.g., V7) have high GPU requirements, whereas older versions (e.g., V3, V4, V4-tiny) offer lower GPU processing but may have reduced accuracy.
+
+In an intense internal hackathon, my team and I successfully secured a position among the top 10 teams, which was a significant achievement considering the level of competition. Our project was not only technically sound but also innovative, which garnered positive recognition from our mentors. They acknowledged our ability to think creatively, solve problems under pressure, and work effectively as a team.
+
+This experience was particularly rewarding as it highlighted our strengths in collaboration and quick decision-making. The feedback from our mentors emphasized the quality and impact of our work, and their recognition has been a strong endorsement of our potential.
+
+Securing a top 10 spot and earning praise from our mentors has not only been a morale booster but also a key milestone in my professional development. It demonstrates my ability to thrive in fast-paced, competitive environments and to deliver high-quality results, further solidifying my commitment to continuous learning and growth in my field.
